@@ -1,5 +1,5 @@
 # SWAGATH - Creating a Welcoming Community for International Students
-A International Student organization at Univeristy of North Texas, Denton-Tx. 
+An International Student organization at Univeristy of North Texas, Denton-Tx. 
 
 
 
