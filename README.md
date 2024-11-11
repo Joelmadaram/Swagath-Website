@@ -1,3 +1,13 @@
+# SWAGATH - Creating a Welcoming Community for International Students
+A International Student organization at Univeristy of North Texas, Denton-Tx. 
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
